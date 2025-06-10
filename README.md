@@ -1,8 +1,8 @@
 # Cypress-1
 
-Descreve objetivo do projeto
-Adiciona instrucoes para instalacao de dependencias
-Mostra como abrir o Cypress e rodar os testes 
+- Descreve objetivo do projeto
+- Adiciona instrucoes para instalacao de dependencias
+- Mostra como abrir o Cypress e rodar os testes 
 
 ## Objetivo
 
